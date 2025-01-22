@@ -11,7 +11,7 @@ class Program
     {
         
         // Bemeneti fájl elérési útja
-        string filePath = @"C:\Users\Martin\Desktop\orak\beadandosajat\adatok.txt";  // A fájl neve, amit be kell olvasni
+        string filePath = @"C:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\adatok.txt";  // A fájl neve, amit be kell olvasni
 
         // Ellenörzöm, hogy létezik-e a fájl
         if (!File.Exists(filePath))
