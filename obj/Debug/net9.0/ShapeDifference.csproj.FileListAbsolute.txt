@@ -15,3 +15,21 @@ c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Deb
 c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\bin\Debug\net9.0\NetTopologySuite.dll
 c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDifference.csproj.AssemblyReference.cache
 c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDif.AD9CAB82.Up2Date
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\bin\Debug\net9.0\ShapeDifference.exe
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\bin\Debug\net9.0\ShapeDifference.deps.json
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\bin\Debug\net9.0\ShapeDifference.runtimeconfig.json
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\bin\Debug\net9.0\ShapeDifference.dll
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\bin\Debug\net9.0\ShapeDifference.pdb
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\bin\Debug\net9.0\NetTopologySuite.dll
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ShapeDifference.csproj.AssemblyReference.cache
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ShapeDifference.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ShapeDifference.AssemblyInfoInputs.cache
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ShapeDifference.AssemblyInfo.cs
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ShapeDifference.csproj.CoreCompileInputs.cache
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ShapeDifference.sourcelink.json
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ShapeDif.AD9CAB82.Up2Date
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ShapeDifference.dll
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\refint\ShapeDifference.dll
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ShapeDifference.pdb
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ShapeDifference.genruntimeconfig.cache
+c:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\obj\Debug\net9.0\ref\ShapeDifference.dll

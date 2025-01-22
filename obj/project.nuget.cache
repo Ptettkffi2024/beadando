@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jPNR5AGG9hw=",
+  "dgSpecHash": "7NtSmcfGcVA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\ShapeDifference.csproj",
+  "projectFilePath": "c:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\ShapeDifference.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martin\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"

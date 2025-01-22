@@ -11,7 +11,7 @@ class Program
     {
         
         // Bemeneti fájl elérési útja
-        string filePath = @"C:\Users\Martin\Desktop\ÓRÁK\beadandó saját\adatok.txt";  // A fájl neve, amit be kell olvasni
+        string filePath = @"C:\Users\Martin\Desktop\orak\beadandosajat\adatok.txt";  // A fájl neve, amit be kell olvasni
 
         // Ellenörzöm, hogy létezik-e a fájl
         if (!File.Exists(filePath))
@@ -39,7 +39,7 @@ class Program
 
         // Eredmény kiírása fájlba
         string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-        string outputFilePath = Path.Combine(desktopPath, "eredmeny.wkt");
+        string outputFilePath = Path.Combine(desktopPath, "eredmeny.txt");
         File.WriteAllText(outputFilePath, wktResult);
 
         // Eredmény kiírása
