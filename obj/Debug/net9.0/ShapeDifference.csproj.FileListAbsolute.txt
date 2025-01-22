@@ -1,0 +1,17 @@
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\bin\Debug\net9.0\ShapeDifference.exe
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\bin\Debug\net9.0\ShapeDifference.deps.json
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\bin\Debug\net9.0\ShapeDifference.runtimeconfig.json
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\bin\Debug\net9.0\ShapeDifference.dll
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\bin\Debug\net9.0\ShapeDifference.pdb
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDifference.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDifference.AssemblyInfoInputs.cache
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDifference.AssemblyInfo.cs
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDifference.csproj.CoreCompileInputs.cache
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDifference.dll
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\refint\ShapeDifference.dll
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDifference.pdb
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDifference.genruntimeconfig.cache
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ref\ShapeDifference.dll
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\bin\Debug\net9.0\NetTopologySuite.dll
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDifference.csproj.AssemblyReference.cache
+c:\Users\Martin\Desktop\ÓRÁK\beadandó saját\beadando\ShapeDifference\obj\Debug\net9.0\ShapeDif.AD9CAB82.Up2Date
