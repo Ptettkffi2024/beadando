@@ -9,7 +9,8 @@ class Program
 {
     static void Main()
     {
-        
+        //A kommentek azzal a céllal készültek, hogy megkönnyítsék saját magam számára a munkám nyomonkövetését.
+
         // Bemeneti fájl elérési útja
         string filePath = @"C:\Users\Martin\Desktop\orak\beadandosajat\beadando\shapedifference\adatok.txt";  // A fájl neve, amit be kell olvasni
 

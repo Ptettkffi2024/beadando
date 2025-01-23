@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\ShapeDifference.csproj": {}
+    "C:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\ShapeDifference.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\ShapeDifference.csproj": {
+    "C:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\ShapeDifference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\ShapeDifference.csproj",
+        "projectUniqueName": "C:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\ShapeDifference.csproj",
         "projectName": "ShapeDifference",
-        "projectPath": "c:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\ShapeDifference.csproj",
+        "projectPath": "C:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\ShapeDifference.csproj",
         "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\obj\\",
+        "outputPath": "C:\\Users\\Martin\\Desktop\\orak\\beadandosajat\\beadando\\shapedifference\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
