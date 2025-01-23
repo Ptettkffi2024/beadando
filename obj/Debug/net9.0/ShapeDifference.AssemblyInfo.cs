@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShapeDifference")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66d48738a75cd801f532cc93ad01176f852a2dc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c947a868795e67e62429fd39273d63bd2ec82e09")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShapeDifference")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShapeDifference")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

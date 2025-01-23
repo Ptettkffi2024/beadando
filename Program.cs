@@ -34,19 +34,38 @@ class Program
         // Szimmetrikus különbség kiszámítása
         var symmetricDifference = CalculateSymmetricDifference(geometries);
 
-        // Eredmény WKT formátumban
-        var writer = new WKTWriter();
-        var wktResult = writer.Write(symmetricDifference);
 
-        // Eredmény kiírása fájlba
+         // Eredmény WKT formátumban
+        var writer = new WKTWriter();
+        var wktResults = new List<string>();
+
+        if (symmetricDifference is GeometryCollection geometryCollection)
+        {
+            foreach (var geometry in geometryCollection.Geometries)
+            {
+                wktResults.Add(writer.Write(geometry));
+            }
+        }
+        else
+        {
+            wktResults.Add(writer.Write(symmetricDifference));
+        }
+
+        // Eredmény kiírása fájlba külön sorokba
         string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
         string outputFilePath = Path.Combine(desktopPath, "eredmeny.txt");
-        File.WriteAllText(outputFilePath, wktResult);
+        File.WriteAllLines(outputFilePath, wktResults);
 
-        // Eredmény kiírása
-        Console.WriteLine($"A szimmetrikus különbség eredménye: {symmetricDifference}");
+        // Eredmény kiírása konzolra külön sorokba
+        Console.WriteLine("A szimmetrikus különbség eredménye:");
+        foreach (var wkt in wktResults)
+        {
+            Console.WriteLine(wkt);
+        }
+
         Console.WriteLine($"Az eredmény fájlba íródott: {Path.GetFullPath(outputFilePath)}");
     }
+    
 
     // Geometriák beolvasása a fájlból WKT formátumban
     static List<Geometry> LoadGeometries(string filePath)
